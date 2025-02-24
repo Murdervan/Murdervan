@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![line2](https://github.com/user-attachments/assets/d0a6222f-adc0-45c1-a9b5-1ececbae0a08)
+
+<div align=center>
+<h4>Popular Repositories</h4>
+</div>
+
+<div align=center>
+  <a align="left" href="https://github.com/beigew0rm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigew0rm&repo=BadUSB-Files-For-FlipperZero&theme=midnight-purple"></a>
+
+  <a align="right" href="https://github.com/beigew0rm/Powershell-Tools-and-Toys" title="Powershell-Tools-and-Toys"><img align="right" height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigew0rm&repo=Powershell-Tools-and-Toys&theme=midnight-purple"></a>
+</div>
+
+![line2](https://github.com/user-attachments/assets/d0a6222f-adc0-45c1-a9b5-1ececbae0a08)
