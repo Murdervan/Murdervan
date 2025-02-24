@@ -10,7 +10,9 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 
 <div align="center">
-  <h4>Popular Repositories</h4>
+  
+   ## Popular Repositories
+  
 </div>
 <div align="center">
   <a href="https://github.com/Murdervan/Flipper-zero-files" title="Flipper-zero-files">
