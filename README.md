@@ -11,7 +11,7 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 <div align="center">
   
-   ## Popular Repositories
+   ## Most Popular Repositories
   
 </div>
 
