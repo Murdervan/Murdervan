@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## hello there 👋_
+  ## >_hello there 👋
 
 Everything I have on my profile is something I personally use, have been missing, and have been searching for. I hope others can benefit from them as well.
 
