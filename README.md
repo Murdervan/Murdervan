@@ -14,19 +14,19 @@ If you have any questions about anything, feel free to contact me on Discord.
    ## Popular Repositories
   
 </div>
-<div align="center">
-  <a href="https://github.com/Murdervan/Flipper-zero-files" title="Flipper-zero-files">
-    <img height="99" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=blue">
-  </a>
-  
-  <a href="https://github.com/Murdervan/Ms-office-2019-dansk" title="Ms-office-2019-dansk">
-    <img height="100" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Ms-office-2019-dansk&theme=blue">
-  </a>
-  
-  <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
 
-  <a href="https://github.com/Murdervan/Ms-office-2019-all-languages" title="Ms-office-2019-all-languages">
-    <img height="100" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Ms-office-2019-all-languages&theme=blue">
-  </a>
-</div>
+<a href="https://github.com/Murdervan/Flipper-zero-files" title="Flipper-zero-files">
+  <img height="99" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=dark&bg_color=000000&title_color=ff7f00&icon_color=ff7f00&text_color=ff7f00">
+</a>
+
+<a href="https://github.com/Murdervan/Ms-office-2019-dansk" title="Ms-office-2019-dansk">
+  <img height="100" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Ms-office-2019-dansk&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
+</a>
+
+<br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
+
+<a href="https://github.com/Murdervan/Ms-office-2019-all-languages" title="Ms-office-2019-all-languages">
+  <img height="100" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Ms-office-2019-all-languages&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
+</a>
+
 
