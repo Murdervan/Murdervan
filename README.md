@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github.com/Murdervan/my-flipper-shits">
+  <a href="https://github.com/Murdervan/">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMurdervan%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="Hits" width="130"/>
   </a>
   <br>
