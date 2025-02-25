@@ -6,7 +6,8 @@ Everything I have on my profile is something I personally use, have been missing
 
 If you have any questions about anything, feel free to contact me on Discord.
 
-[![Discord](https://img.shields.io/badge/Discord-26A65B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
+[![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
+[![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/MUrdervan)
 
 
 <div align="center">
