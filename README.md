@@ -34,3 +34,5 @@ If you have any questions about anything, feel free to contact me on Discord.
   <img height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Ms-office-2019-all-languages&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
 <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
+
+for more see [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
