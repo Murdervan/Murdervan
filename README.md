@@ -6,7 +6,7 @@ Everything I have on my profile is something I personally use, have been missing
 
 If you have any questions about anything, feel free to contact me on Discord.
 
-[![Join Discord](https://img.shields.io/badge/Join%20Us%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
+[![Discord](https://img.shields.io/badge/Discord-26A65B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
 
 
 <div align="center">
