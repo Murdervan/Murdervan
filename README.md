@@ -1,7 +1,16 @@
 <div align="right">
-<img align="right" src="https://komarev.com/ghpvc/?username=Murdervan" alt="Murdervan" />
+  <!-- Website Badge -->
+  <a href="https://unit.link/murdervan">
+    <img src="https://img.shields.io/badge/Website-unit.link/murdervan-blue?style=for-the-badge" alt="Website" width="135"/>
+  </a>
   <br>
- <a href="https://github.com/Murdervan">
+
+  <!-- GitHub Profile Badge -->
+  <img align="right" src="https://komarev.com/ghpvc/?username=Murdervan" alt="Murdervan" />
+  <br>
+
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/Murdervan">
     <img src="https://img.shields.io/github/followers/Murdervan?label=Follow&style=social" alt="GitHub followers"/>
   </a>
 </div>
