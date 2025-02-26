@@ -24,10 +24,6 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
 [![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/Murdervan)
-<a href="https://t.me/el_jefe_cc">
-  <img src="https://img.shields.io/badge/Telegram-@el_jefe_cc-blue?logo=telegram&style=social" alt="Telegram"/>
-</a>
-
 
 <div align="center">
   
