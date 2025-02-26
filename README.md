@@ -1,7 +1,7 @@
 <div align="right">
   <!-- Website Badge -->
   <a href="https://unit.link/murdervan">
-    <img src="https://img.shields.io/badge/Website-unit.link/murdervan-blue?style=for-the-badge" alt="Website" width="135"/>
+    <img src="https://img.shields.io/badge/Website-unit.link/murdervan-blue?style=for-the-badge" alt="Website" width="185"/>
   </a>
   <br>
 
