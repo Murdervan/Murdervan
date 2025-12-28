@@ -37,6 +37,8 @@ If you have any questions about anything, feel free to contact me on Discord.
 <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
 <a align="left" href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
   <img height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Server-botty-commands&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
+</a><a align="right" href="https://github.com/Murdervan/Podcast" title="Podcast">
+  <img height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Podcast&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
 <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
 <a align="left" href="<div align="right">
