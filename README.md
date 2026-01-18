@@ -34,7 +34,7 @@ If you have any questions about anything, feel free to contact me on Discord.
 <a href="https://github.com/Murdervan/Flipper-zero-files" title="Flipper-zero-files">
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=dark&bg_color=000000&title_color=ff7f00&icon_color=ff7f00&text_color=ff7f00">
 </a><a align="right" href="https://github.com/Murdervan/movie-id-finder" title="Movie-ID-Finder">
-  <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=movie-id-finder&theme=dark&bg_color=032541&title_color=01D277&icon_color=01D277&text_color=00FFFF">
+  <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=movie-id-finder&theme=dark&bg_color=032541&title_color=01D277&icon_color=01D277&text_color=00FFFF">
 </a>
 <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
 <a align="left" href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
