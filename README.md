@@ -27,6 +27,16 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 <div align="center">
   
+  ## NEED HELP WITH THIS PROJECT
+  
+  <a href="https://github.com/Murdervan/Windows-app-remover" title="Windows App Remover">
+    <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Windows-app-remover&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
+  </a>
+</div>
+
+
+<div align="center">
+  
    ## Most Popular Repositories
   
 </div>
