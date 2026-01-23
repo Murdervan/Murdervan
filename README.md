@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-  ## >_hello there 👋
+  ## >_hello there. 👋
 
 Everything I have on my profile is something I personally use, have been missing, and have been searching for. I hope others can benefit from them as well.
 
@@ -26,7 +26,7 @@ If you have any questions about anything, feel free to contact me on Discord.
 [![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/Murdervan)
 <div align="center">
   
-  ## NEED HELP WITH THIS PROJECT
+  ## NEED HELP WITH THIS PROJECT.
   
   <a href="https://github.com/Murdervan/Windows-app-remover" title="Windows App Remover">
     <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Windows-app-remover&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
@@ -40,7 +40,7 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 <div align="center">
   
-   ## Most Popular Repositories
+   ## Most Popular Repositories.
   
 </div>
 
@@ -48,11 +48,13 @@ If you have any questions about anything, feel free to contact me on Discord.
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=dark&bg_color=000000&title_color=ff7f00&icon_color=ff7f00&text_color=ff7f00">
 </a><a align="right" href="https://github.com/Murdervan/movie-id-finder" title="Movie-ID-Finder">
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=movie-id-finder&theme=dark&bg_color=032541&title_color=01D277&icon_color=01D277&text_color=00FFFF">
-</a>
-<br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
-<a align="left" href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
+</a><a align="right" href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Server-botty-commands&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
-</a><a align="right" href="https://github.com/Murdervan/Podcast-Piratkvinden" title="Podcast-Piratkvinden">
+</a>
+
+### Others repos i like.
+
+<a align="right" href="https://github.com/Murdervan/Podcast-Piratkvinden" title="Podcast-Piratkvinden">  
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Podcast-Piratkvinden&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
 <br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
