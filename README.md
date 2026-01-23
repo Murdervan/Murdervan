@@ -24,14 +24,17 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
 [![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/Murdervan)
-
 <div align="center">
   
   ## NEED HELP WITH THIS PROJECT
   
   <a href="https://github.com/Murdervan/Windows-app-remover" title="Windows App Remover">
     <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Windows-app-remover&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
-  </a>
+  </a><br>
+  <sub>
+    "I have a vision of creating a USB-based tool that automatically launches when plugged into a computer, allowing the user to choose exactly which built-in Windows apps should be uninstalled.<br>
+    The goal is to make Windows refurbishment and deployment faster, cleaner, and more user-controlled — without breaking system stability.<br>This project is a step toward that vision, and community feedback and contributions are very welcome to help bring it to completion."<br>kind regards - Murdervan
+  </sub>
 </div>
 
 
