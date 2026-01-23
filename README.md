@@ -52,7 +52,7 @@ If you have any questions about anything, feel free to contact me on Discord.
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Server-botty-commands&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
 
-### Others repos i like.
+## Others repos i like.
 
 <a align="right" href="https://github.com/Murdervan/Podcast-Piratkvinden" title="Podcast-Piratkvinden">  
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Podcast-Piratkvinden&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
