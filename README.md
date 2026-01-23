@@ -24,10 +24,9 @@ If you have any questions about anything, feel free to contact me on Discord.
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
 [![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/Murdervan)
-<div align="center">
   
   ## NEED HELP WITH THIS PROJECT.
-  
+
   <a href="https://github.com/Murdervan/Windows-app-remover" title="Windows App Remover">
     <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Windows-app-remover&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
   </a><br>
@@ -37,30 +36,28 @@ If you have any questions about anything, feel free to contact me on Discord.
   </sub>
 </div>
 
-
 <div align="center">
   
    ## Most Popular Repositories.
   
-</div>
+
 
 <a href="https://github.com/Murdervan/Flipper-zero-files" title="Flipper-zero-files">
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=dark&bg_color=000000&title_color=ff7f00&icon_color=ff7f00&text_color=ff7f00">
-</a><a align="right" href="https://github.com/Murdervan/movie-id-finder" title="Movie-ID-Finder">
+<a  href="https://github.com/Murdervan/movie-id-finder" title="Movie-ID-Finder">
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=movie-id-finder&theme=dark&bg_color=032541&title_color=01D277&icon_color=01D277&text_color=00FFFF">
-</a><a align="right" href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
+<a href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Server-botty-commands&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
-
+  
 ## Others repos i like.
 
-<a align="right" href="https://github.com/Murdervan/Podcast-Piratkvinden" title="Podcast-Piratkvinden">  
+
+<a align="left" href="https://github.com/Murdervan/Podcast-Piratkvinden" title="Podcast-Piratkvinden">  
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Podcast-Piratkvinden&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
 </a>
-<br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
-<a align="left" href="<div align="right">
-  </a>
-<br> <!-- Dette sikrer, at næste boks kommer på en ny linje -->
+
 for more see 
 
 [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
+</div>
