@@ -2,7 +2,6 @@
   <!-- GitHub Profile Badge -->
   <img align="right" src="https://komarev.com/ghpvc/?username=Murdervan" alt="Murdervan" />
   <br>
-
   <!-- GitHub Followers Badge -->
   <a href="https://github.com/Murdervan">
     <img src="https://img.shields.io/github/followers/Murdervan?label=Follow&style=social" alt="GitHub followers"/>
@@ -14,10 +13,7 @@
 
 Everything I have on my profile is something I personally use, have been missing, and have been searching for. I hope others can benefit from them as well.
 
-If you have any questions about anything, feel free to contact me on Discord.
-
-[![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/9NdbUZc8j5)
-[![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)](https://steamcommunity.com/id/Murdervan)
+If you have any questions about anything, please open an Issue.<br>
   
   ## NEED HELP WITH THIS PROJECT.
 
