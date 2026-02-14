@@ -28,7 +28,7 @@ If you have any questions about anything, please open an Issue.<br>
 
 <div align="center">
   
-   ## Most Popular Repositories.
+   ## My Fav Repositories.
   
 
 
@@ -36,9 +36,6 @@ If you have any questions about anything, please open an Issue.<br>
   <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Flipper-zero-files&theme=dark&bg_color=000000&title_color=ff7f00&icon_color=ff7f00&text_color=ff7f00">
 <a  href="https://github.com/Murdervan/movie-id-finder" title="Movie-ID-Finder">
   <img height="120" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=movie-id-finder&theme=dark&bg_color=032541&title_color=01D277&icon_color=01D277&text_color=00FFFF">
-<a href="https://github.com/Murdervan/Server-botty-commands" title="Server-botty-commands">
-  <img height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Murdervan&repo=Server-botty-commands&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00">
-</a>
 
 for more see 
 
