@@ -1,12 +1,3 @@
-<div align="right">
-  <!-- GitHub Profile Badge -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=Murdervan" alt="Murdervan" />
-  <br>
-  <!-- GitHub Followers Badge -->
-  <a href="https://github.com/Murdervan">
-    <img src="https://img.shields.io/github/followers/Murdervan?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
-</div>
 <div align="center">
 
   ## >_hello there. 👋
